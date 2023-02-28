@@ -1,4 +1,11 @@
 ﻿l_russian:
+ 
+ #mod add
+ 
+ 
+ 
+ #vanilla
+
  INS_HOL_democratic: "Голландская Ост-Индия"
  INS_HOL_democratic_DEF: "Голландская Ост-Индия"
  INS_subject: "$OVERLORDADJ$ Ост-Индия"
@@ -163,7 +170,6 @@
  LAT_GER_fascism_autonomy_satellite: "Латвия"
  NOR_GER_fascism_autonomy_reichskommissariat: "Рейхскомиссариат Норвегия"
  NOR_GER_fascism_autonomy_reichsprotectorate: "Рейхспротекторат Норвегия"
- CZE_GER_fascism_autonomy_reichsprotectorate: "Рейхспротекторат Богемия и Моравия"
  HOL_GER_fascism_autonomy_reichskommissariat_DEF: "Рейхскомиссариат Нидерланды"
  HOL_GER_fascism_autonomy_reichsprotectorate_DEF: "Рейхспротекторат Нидерланды"
  HOL_GER_fascism_autonomy_satellite_DEF: "Великие Нидерланды"
@@ -181,9 +187,10 @@
  LAT_GER_fascism_autonomy_satellite_DEF: "Латвия"
  NOR_GER_fascism_autonomy_reichskommissariat_DEF: "Рейхскомиссариат Норвегия"
  NOR_GER_fascism_autonomy_reichsprotectorate_DEF: "Рейхспротекторат Норвегия"
- CZE_GER_fascism_autonomy_reichsprotectorate_DEF: "Рейхспротекторат Богемия и Моравия"
- POL_GER_fascism_autonomy_reichsprotectorate_DEF: "Генерал-губернаторство"
+ CZE_GER_fascism_autonomy_reichsprotectorate: "Рейхспротекторат Богемии и Моравии"
+ CZE_GER_fascism_autonomy_reichsprotectorate_DEF: "Рейхспротекторат Богемии и Моравии"
  POL_GER_fascism_autonomy_reichsprotectorate: "Генерал-губернаторство"
+ POL_GER_fascism_autonomy_reichsprotectorate_DEF: "Генерал-губернаторство"
  
  FRA_FREE_democratic: "Французская Республика"
  FRA_FREE_democratic_DEF: "Французская Республика"
@@ -269,8 +276,6 @@
  NOR_GER_fascism_autonomy_integrated_puppet: "Рейхскомиссариат Норвегия"
  NOR_GER_fascism_autonomy_puppet: "Протекторат Норвегия"
  NOR_GER_fascism_autonomy_colony: "Имперская земля Норвегия"
- CZE_GER_fascism_autonomy_puppet: "Протекторат Богемии и Моравии"
- POL_GER_fascism_autonomy_puppet: "Генерал-губернаторство"
  HOL_GER_fascism_autonomy_integrated_puppet_DEF: "Рейхскомиссариат Нидерланды"
  HOL_GER_fascism_autonomy_puppet_DEF: "Протекторат Нидерланды"
  HOL_GER_fascism_autonomy_colony_DEF: "Имперская земля Нидерланды"
@@ -294,7 +299,9 @@
  NOR_GER_fascism_autonomy_integrated_puppet_DEF: "Рейхскомиссариат Норвегия"
  NOR_GER_fascism_autonomy_puppet_DEF: "Протекторат Норвегия"
  NOR_GER_fascism_autonomy_colony_DEF: "Имперская земля Норвегия"
- CZE_GER_fascism_autonomy_puppet_DEF: "Протекторат Богемия и Моравия"
+ CZE_GER_fascism_autonomy_puppet: "Протекторат Богемии и Моравии"
+ CZE_GER_fascism_autonomy_puppet_DEF: "Протекторат Богемии и Моравии"
+ POL_GER_fascism_autonomy_puppet: "Генерал-губернаторство"
  POL_GER_fascism_autonomy_puppet_DEF: "Генерал-губернаторство"
  SCA_UNIFIED_neutrality: "Королевство Скандинавия"
  SCA_UNIFIED_fascism: "Скандинавская Империя"
@@ -598,18 +605,15 @@
  USA_REBEL_communism_ADJ: "Американск."
  USA_REBEL_democratic_ADJ: "Конституционалистск."
  USA_REBEL_neutrality_ADJ: "Свободноамериканск."
- MEX_cristero_fascism: "Католическая Мексика"
- MEX_cristero_fascism_DEF: "Католическая Мексика"
- MEX_cristero_fascism_ADJ: "Мексиканск."
- MEX_cristero_neutrality: "Третья Мексиканская Империя"
- MEX_cristero_neutrality_DEF: "Третья Мексиканская Империя"
- MEX_cristero_neutrality_ADJ: "Мексиканск."
- MEX_cristero_democratic: "Мексиканская Республика"
- MEX_cristero_democratic_DEF: "Мексиканская Республика"
- MEX_cristero_democratic_ADJ: "Мексиканск."
- MEX_cristero_communism: "Мексиканская Социалистическая Республика"
- MEX_cristero_communism_DEF: "Мексиканская Социалистическая Республика"
- MEX_cristero_communism_ADJ: "Мексиканск."
+ 
+ MEX_cristero_fascism: "Католическое Государство Мексика"
+ MEX_cristero_fascism_DEF: "Католическое Государство Мексика"
+ MEX_cristero_neutrality: "Католическая Мексиканская Империя"
+ MEX_cristero_neutrality_DEF: "Католическая Мексиканская Империя"
+ MEX_cristero_democratic: "Католическая Мексиканская Республика"
+ MEX_cristero_democratic_DEF: "Католическая Мексиканская Республика"
+ MEX_cristero_communism: "Мексиканская Анархическая Коммуна"
+ MEX_cristero_communism_DEF: "Мексиканская Анархическая Коммуна"
  MEX_SPR_fascism_subject: "Новая Испания"
  MEX_SPR_fascism_subject_DEF: "Новая Испания"
  MEX_SPR_fascism_subject_ADJ: "Новоиспанск."
@@ -634,6 +638,7 @@
  MEX_cristero_SPA_neutrality_subject: "Новая Испания"
  MEX_cristero_SPA_neutrality_subject_DEF: "Новая Испания"
  MEX_cristero_SPA_neutrality_subject_ADJ: "Новоиспанск."
+ 
  ENG_imperial_federation_unified_fascism: "Империя"
  ENG_imperial_federation_unified_communism: "Содружество народов"
  ENG_imperial_federation_unified_democratic: "Содружество наций"
