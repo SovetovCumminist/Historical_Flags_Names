@@ -999,14 +999,16 @@
  TBE_third_bulgarian_empire_democratic: "Болгарская Федерация"
  TBE_third_bulgarian_empire_democratic_DEF: "болгарская Федерация"
  TBE_third_bulgarian_empire_democratic_ADJ: "Болгарск."
+ 
  KUR_FRA_autonomy_dominion: "$OVERLORDADJ$ Государство Курдистан"
  KUR_FRA_autonomy_colony: "Губернаторство Курдистан"
- KUR_FRA_autonomy_puppet: "$OVERLORDADJ$ Курдистанский мандат"
+ KUR_FRA_autonomy_puppet: "$OVERLORDADJ$ Курдистанский Мандат"
  KUR_FRA_autonomy_integrated_puppet: "$OVERLORDADJ$ Курдистан"
  KUR_FRA_autonomy_dominion_DEF: "$OVERLORDADJ$ Государство Курдистан"
  KUR_FRA_autonomy_colony_DEF: "Губернаторство Курдистан"
- KUR_FRA_autonomy_puppet_DEF: "$OVERLORDADJ$ Курдистанский мандат"
+ KUR_FRA_autonomy_puppet_DEF: "$OVERLORDADJ$ Курдистанский Мандат"
  KUR_FRA_autonomy_integrated_puppet_DEF: "$OVERLORDADJ$ Курдистан"
+ 
  TRN_neutrality: "Туран"
  TRN_fascism: "Туранский каганат"
  TRN_democratic: "Туранская федерация"
