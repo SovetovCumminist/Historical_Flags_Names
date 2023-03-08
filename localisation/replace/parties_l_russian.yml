@@ -334,8 +334,8 @@
  SAF_neutrality_party_long: "Африканский национальный конгресс"
  SAF_communism_party: "КПЮА"
  SAF_communism_party_long: "Коммунистическая партия Южной Африки"
- SAF_democratic_party: "Объединенная"
- SAF_democratic_party_long: "Объединенная национальная партия Южной Африки"
+ SAF_democratic_party: "Объединённая"
+ SAF_democratic_party_long: "Объединённая национальная партия Южной Африки"
  SAF_fascism_party: "ОНП"
  SAF_fascism_party_long: "Очищенная национальная партия"
  NZL_neutrality_party: "Националисты"
@@ -588,7 +588,7 @@
  INS_communism_party: "Коммунистическая партия Индонезии" #Partai Komunis Indonesia
  INS_neutrality_party: "Демократы" #made up, in reality this guy was a member of PNI 
  MAL_fascism_party: "Панокеанское Единение"
- MAL_democratic_party: "Объединенная малайская национальная организация" #or UMNO or PEKEMBAR
+ MAL_democratic_party: "Объединённая малайская национальная организация" #or UMNO or PEKEMBAR
  MAL_communism_party: "Коммунистическая партия Малайзии" #or MCP
  MAL_neutrality_party: "Малайский союз молодежи" #or KMM 
  LAO_fascism_party: "Партия Союза племен"
@@ -790,7 +790,7 @@
  TAT_fascism_party: "ТУС"
  TAT_fascism_party_long: "Татарский ультранационалистический союз"
  TAT_democratic_party: "ОТА"
- TAT_democratic_party_long: "Объединенный Татарстан"
+ TAT_democratic_party_long: "Объединённый Татарстан"
  TAT_neutrality_party: "ТФС"
  TAT_neutrality_party_long: "Казанско-татарский фронт спасения"
  CIN_communism_party: "ВЧИ"
@@ -800,7 +800,7 @@
  CIN_democratic_party: "ОКЧ"
  CIN_democratic_party_long: "Общенациональный конгресс чеченского народа"
  CIN_neutrality_party: "ОФЧ"
- CIN_neutrality_party_long: "Объединенный фронт чечено-ингушского спасения"
+ CIN_neutrality_party_long: "Объединённый фронт чечено-ингушского спасения"
  DAG_communism_party: "ДБП"
  DAG_communism_party_long: "Дагестанская большевистская партия"
  DAG_fascism_party: "ДФН"
@@ -843,7 +843,7 @@
  YAK_communism_party: "ЯБС"
  YAK_communism_party_long: "Якутское региональное большевистское собрание"
  YAK_fascism_party: "ДОС"
- YAK_fascism_party_long: "Движение «Объединенная Сибирь»"
+ YAK_fascism_party_long: "Движение «Объединённая Сибирь»"
  YAK_democratic_party: "СИТ"
  YAK_democratic_party_long: "Сахинский ил тумэн"
  YAK_neutrality_party: "Белая русская армия"
