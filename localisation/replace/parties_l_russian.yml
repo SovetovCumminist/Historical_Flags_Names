@@ -158,6 +158,7 @@
  POR_democratic_party_long: "Aliança Republicana e Socialista"
  POR_fascism_party: "НСД"
  POR_fascism_party_long: "Национал-синдикалистское движение"
+ 
  GRE_neutrality_party: "Народная партия"
  GRE_monarchist_party: "VSE"
  GRE_monarchist_party_long: "Vasilikí Symvouleftikí Epitropí"
@@ -170,6 +171,7 @@
  GRE_fascism_party_long: "Греческая национал-социалистическая партия"
  GRE_byzantine_party: "НСГ"
  GRE_byzantine_party_long: "Национальный союз Греции"
+ 
  LIT_neutrality_party: "СЛН"
  LIT_neutrality_party_long: "Союз литовских националистов"
  LIT_fascism_party: "«Железный волк»"
@@ -316,6 +318,7 @@
  SER_fascism_party_long: "Правительство национального спасения"
  SER_neutrality_party: "Роялисты"
  SER_neutrality_party_long: "Роялисты"
+ 
  BUL_neutrality_party: "Сторонники царя Бориса"
  BUL_communism_party: "КПБ"
  BUL_communism_party_long: "Коммунистическая партия Болгарии"
@@ -326,10 +329,11 @@
  BUL_democratic_party_bftb: "ДП"
  BUL_democratic_party_bftb_long: "Демократическая партия"
  BUL_democratic_party_bftb_bulgarian_long: "Демократическая партия"
- BUL_fascism_party: "СБНЛ"
+ BUL_fascism_party: "Ассоциация легионеров"
  BUL_fascism_party_long: "Союз болгарских национальных легионов"
- BUL_fascism_party_bulgarian: "СБНЛ"
+ BUL_fascism_party_bulgarian: "Ассоциация легионеров"
  BUL_fascism_party_bulgarian_long: "Союз болгарских национальных легионов"
+ 
  SAF_neutrality_party: "АНК"
  SAF_neutrality_party_long: "Африканский национальный конгресс"
  SAF_communism_party: "КПЮА"
